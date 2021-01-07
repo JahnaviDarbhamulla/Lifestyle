@@ -1,0 +1,56 @@
+.side-nav{
+  background-color:#c72c41;
+  height:740px;
+  width:400px;
+
+}
+.side-nav-msg{
+  color:white;
+  text-align: center;
+  position: absolute;
+  bottom:350px;
+
+}
+.side-nav-msg-2{
+  color:white;
+  text-align: center;
+  position: absolute;
+  bottom:250px;}
+
+.login-card{
+  margin: auto;
+
+}
+.row{
+  margin-right:0px;
+}
+.link{
+  color:black;
+}
+
+
+
+.nav-link{
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  padding-right: 7%;
+}
+.side-nav-msg{
+  font-family: Montserrat;
+
+  font-weight: 600;
+  padding-right: 7%;
+}
+.side-nav-msg-2{
+  font-family: Montserrat;
+
+  
+  padding-right: 7%;
+}
+.navbar-brand{
+  font-family: Montserrat;
+
+  font-weight: 600;
+  padding-right: 7%;
+}

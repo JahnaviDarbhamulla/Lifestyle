@@ -1,0 +1,63 @@
+.top-container{
+  background-color:black;
+  margin:0px;
+  padding:30px;
+  padding-left: 7%;
+
+}
+body{
+  margin: 0px;
+}
+.card{
+  font-family: Montserrat;
+  margin-bottom: 5%;
+  font-weight: 600;
+
+}
+.brand{
+  font-family: Montserrat;
+  color:grey;
+  font-size: 0;
+  font-weight: 600;
+
+}
+.navbar-brand{
+
+}
+.nav-link{
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  padding-right: 7%;
+}
+
+
+.footer{
+  background-color: black;
+margin: 0;
+padding: 10px;
+text-align: center;
+}
+.copyright{
+  color:grey;
+  font-size: 20px;
+  font-family: Montserrat;
+}
+.nav-link{
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  padding-right: 7%;
+}
+.jumbotron{
+  font-family: Montserrat;
+
+  font-weight: 600;
+  padding-right: 7%;
+}
+.table{
+  font-family: Montserrat;
+
+  font-weight: 600;
+
+}
